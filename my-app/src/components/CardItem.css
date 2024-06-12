@@ -1,0 +1,25 @@
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px; 
+    justify-content: center; 
+    margin-top: 20px; 
+}
+
+.card-item {
+    width: 300px; 
+    box-sizing: border-box;
+    margin-bottom: 20px; 
+    border: purple; 
+}
+
+.card-item .card {
+    height: 100%; 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #000; 
+    color: #fff; 
+    border: 1px solid #6C006C; 
+    padding: 10px; 
+}

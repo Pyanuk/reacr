@@ -1,0 +1,50 @@
+{
+  "card": [
+    {
+      "myId": "1",
+      "id": "1",
+      "name": "MACBOOK AIR M2",
+      "description": "MacBook Air M2 – это обновленная версия популярного ноутбука от Apple, выпущенная в 2022 году. Он оснащен новым процессором Apple M2, который представляет собой второй поколение чипов Apple Silicon, обеспечивающий высокую производительность и энергоэффективность. ",
+      "price": "205990₽",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPSuhl7YRnMMknaQcC7Szgd1yB-Va9deFOee0Mwncxe8Ob-KYbyPbuKanL50FmB_UEyII&usqp=CAU"
+    },
+    {
+      "myId": "2",
+      "id": "2",
+      "name": "IPAD PRO 2022",
+      "description": "iPad Pro 2022 – это обновлённая версия флагманского планшета от Apple, которая была представлена в октябре 2022 года. Это устройство предназначено для профессиональных пользователей и отличается высокой производительностью и множеством современных функций. ",
+      "price": "87990₽",
+      "url": "https://my-apple-store.ru/wa-data/public/shop/products/20/38/13820/images/23719/23719.500@2x.jpg"
+    },
+    {
+      "myId": "3",
+      "id": "3",
+      "name": "IPHONE 13 PRO MAX",
+      "description": "iPhone 13 Pro Max – это обновлённая версия флагманского смартфона от Apple, выпущенная в 2022 году. Это устройство предназначено для профессиональных пользователей и отличается высокой производительностью и множеством современных функций. ",
+      "url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTv5BZcbjqnnNXP6tR_wcQxFylq5Hz2Gxsoz4ZBpEmHr58Bvlc5N7YNZHm4E1ZssfqrcIZeefCPM3ObtkfI-JThDQhYltlUKhIbVygTXGjCQU-0OhQpPkhA&usqp=CAE",
+      "price": "119990₽"
+    },
+    {
+      "myId": "4",
+      "id": "4",
+      "name": "SAMSUNG GALAXY S24 ULTRA",
+      "description": "Samsung Galaxy S24 Ultra – это флагманская модель с премиальным дизайном, оснащенная большим AMOLED-дисплеем с высокой частотой обновления. Устройство обладает новейшим процессором для максимальной производительности и энергоэффективности. Основной упор сделан на камеры, предлагая передовые возможности фотосъемки и видеозаписи. Смартфон также поддерживает современные технологии связи и автономную работу благодаря ёмкому аккумулятору и быстрой зарядке.",
+      "url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSMLa0v9ciKmH_pvD7lHvPjEVpzb98GndQL9A3vzBtvjFghBVYb0mJxvORI-KR-69l6Q38PjhReuTPCxX-F0gmBTnlZvtOc&usqp=CAE",
+      "price": "99990₽"
+    }
+  ],
+  "basket": [
+    {
+      "id": "2",
+      "myId": "2",
+      "name": "IPAD PRO 2022",
+      "description": "iPad Pro 2022 – это обновлённая версия флагманского планшета от Apple, которая была представлена в октябре 2022 года. Это устройство предназначено для профессиональных пользователей и отличается высокой производительностью и множеством современных функций. ",
+      "price": "87990₽",
+      "url": "https://my-apple-store.ru/wa-data/public/shop/products/20/38/13820/images/23719/23719.500@2x.jpg"
+    }
+  ],
+  "home": [],
+  "favorites": [],
+  "about_company": [],
+  "contactform": []
+}
